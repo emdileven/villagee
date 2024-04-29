@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LiveProject</string>
+    <string name="sign_in">Sign In</string>
+    <string name="etTypeEmail">Type your email</string>
+    <string name="type_your_password">Type your password</string>
+    <string name="don_t_have_an_acccount">Don\'t have an acccount? Register here!</string>
+    <string name="register">Register</string>
+    <string name="etTypeUsername">Type Your Username</string>
+    <string name="retype_your_password">Retype Your Password</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="password_isnt_matching">Password isn\'t matching!</string>
+    <string name="field_must_be_filled">Field must be filled!</string>
+</resources>

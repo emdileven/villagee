@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "263991370896",
+    "project_id": "md-11-miniproject",
+    "storage_bucket": "md-11-miniproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263991370896:android:4c74c9eddaffd022c2a415",
+        "android_client_info": {
+          "package_name": "com.dicoding.liveproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCstpOitRavyzB_2oEK-Jsq4RcZ5C57IOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
